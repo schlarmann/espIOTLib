@@ -1,5 +1,5 @@
 # espIOTLib
-Library to abstract some boilerplate code for ESP8266/ESP32 IOT projects
+PlatformIO Library to abstract some boilerplate code for ESP8266/ESP32 IOT projects
 Combines IOTWebConfig, MQTT and ArduinoOTA into one library
 
 ## Dependencies

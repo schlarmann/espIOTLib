@@ -16,6 +16,12 @@
           "email": "paul.schlarmann@hsbi.de"
       }
     ],
+    "license": "MIT",
+    "dependencies":
+    {
+      "prampec/IotWebConf":"3.2.1",
+      "256dpi/MQTT":"*"
+    },
     "frameworks": "arduino",
     "platforms": [
       "espressif8266",
